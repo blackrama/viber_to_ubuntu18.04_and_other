@@ -10,5 +10,5 @@ Steps:
 1. Download xaa xab xac xad
 2. Change dir from uploaded files in terminal $ cd ./Downloads
 3. Use command $ cat xaa xab xac xad > viber1.deb
-4.Install reconfigure app  $ sudo dpkg -i ./viber1.deb
+4. Install reconfigure app  $ sudo dpkg -i ./viber1.deb
 5. Run your app
